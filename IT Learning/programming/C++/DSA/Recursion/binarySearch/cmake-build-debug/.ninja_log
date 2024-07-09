@@ -1,0 +1,11 @@
+# ninja log v6
+1	758	1719443209528051106	CMakeFiles/binarySearch.dir/main.cpp.o	74c6777dfa2a8cfe
+761	907	1719443210287739790	binarySearch	38779bcbc9f01a6b
+8	704	1719443319157623796	CMakeFiles/binarySearch.dir/main.cpp.o	74c6777dfa2a8cfe
+706	835	1719443319856050521	binarySearch	38779bcbc9f01a6b
+4	459	1719443357340532764	CMakeFiles/binarySearch.dir/main.cpp.o	74c6777dfa2a8cfe
+460	500	1719443357796587643	binarySearch	38779bcbc9f01a6b
+5	699	1719443529050095800	CMakeFiles/binarySearch.dir/main.cpp.o	74c6777dfa2a8cfe
+700	827	1719443529745492034	binarySearch	38779bcbc9f01a6b
+4	725	1719443640237842095	CMakeFiles/binarySearch.dir/main.cpp.o	74c6777dfa2a8cfe
+726	855	1719443640959796242	binarySearch	38779bcbc9f01a6b

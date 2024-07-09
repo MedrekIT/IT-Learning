@@ -1,0 +1,11 @@
+# ninja log v6
+1	711	1719445812008798950	CMakeFiles/noRecursionFactorial.dir/main.cpp.o	425af4626421bbcf
+714	843	1719445812721187561	noRecursionFactorial	df506564de7a3896
+7	598	1719445831584223144	CMakeFiles/noRecursionFactorial.dir/main.cpp.o	425af4626421bbcf
+599	639	1719445832175431781	noRecursionFactorial	df506564de7a3896
+5	665	1719445880141032197	CMakeFiles/noRecursionFactorial.dir/main.cpp.o	425af4626421bbcf
+666	791	1719445880802260055	noRecursionFactorial	df506564de7a3896
+4	741	1719445950265119847	CMakeFiles/noRecursionFactorial.dir/main.cpp.o	425af4626421bbcf
+742	896	1719445951003077020	noRecursionFactorial	df506564de7a3896
+5	693	1719446023437224563	CMakeFiles/noRecursionFactorial.dir/main.cpp.o	425af4626421bbcf
+693	822	1719446024125379162	noRecursionFactorial	df506564de7a3896

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "noRecursionFactorial",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "noRecursionFactorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-noRecursionFactorial-Debug-fc8cf82584b28484e3af.json",
+					"name" : "noRecursionFactorial",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/danielmedrek/Documents/Git public/IT Learning/programming/C++/DSA/Recursion/noRecursionFactorial/cmake-build-debug",
+		"source" : "/Users/danielmedrek/Documents/Git public/IT Learning/programming/C++/DSA/Recursion/noRecursionFactorial"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

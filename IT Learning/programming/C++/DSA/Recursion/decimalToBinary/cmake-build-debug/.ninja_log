@@ -1,0 +1,15 @@
+# ninja log v6
+1	749	1719444869571647495	CMakeFiles/decimalToBinary.dir/main.cpp.o	d48ffee767e371fc
+753	974	1719444870324028421	decimalToBinary	f886c172962ea2f8
+4	460	1719444922041271883	CMakeFiles/decimalToBinary.dir/main.cpp.o	d48ffee767e371fc
+461	501	1719444922497736952	decimalToBinary	f886c172962ea2f8
+5	674	1719445137634768168	CMakeFiles/decimalToBinary.dir/main.cpp.o	d48ffee767e371fc
+676	800	1719445138306132274	decimalToBinary	f886c172962ea2f8
+4	441	1719445163811342749	CMakeFiles/decimalToBinary.dir/main.cpp.o	d48ffee767e371fc
+441	480	1719445164248455350	decimalToBinary	f886c172962ea2f8
+4	436	1719445207009950900	CMakeFiles/decimalToBinary.dir/main.cpp.o	d48ffee767e371fc
+437	477	1719445207442382833	decimalToBinary	f886c172962ea2f8
+5	493	1719445340202946847	CMakeFiles/decimalToBinary.dir/main.cpp.o	d48ffee767e371fc
+495	543	1719445340693081634	decimalToBinary	f886c172962ea2f8
+4	438	1719445366179880453	CMakeFiles/decimalToBinary.dir/main.cpp.o	d48ffee767e371fc
+438	477	1719445366613698394	decimalToBinary	f886c172962ea2f8
