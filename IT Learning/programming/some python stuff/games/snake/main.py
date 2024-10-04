@@ -1,5 +1,6 @@
 import pygame as pg
 import random as rd
+import time
 
 
 class Snake:
@@ -89,13 +90,15 @@ def snakemovement(direction, previous):
 
 
 def drawgame():
+    global GAMETIME
+
     snake.drawsnake()
     apple.drawapple()
-    scoreboard = gameFont.render(f'SCORE = {snake.snakeSize - 2}', True, (255, 255, 255), None)
+
+    scoreboard = gameFont.render(f'{int(time.time()-GAMETIME)} SCORE = {snake.snakeSize - 2}', True, (255, 255, 255), None)
     WIN.blit(scoreboard, (50, 50))
 
     pg.display.update()
-
 
 pg.init()
 
@@ -107,6 +110,8 @@ SLOWNESS: int = 75
 pg.display.set_caption("Snake")
 pg.font.init()
 gameFont = pg.font.SysFont('Times New Roman', 30)
+
+GAMETIME = time.time()
 
 if __name__ == '__main__':
     runWin: bool = True
@@ -141,4 +146,8 @@ if __name__ == '__main__':
         if SLOWNESS > 4:
             pg.time.delay(SLOWNESS)
         pg.display.update()
+
+        if time.time() - GAMETIME >= 90:
+            print(snake.snakeSize - 2)
+            runWin = False
     pg.quit()
